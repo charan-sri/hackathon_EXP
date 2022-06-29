@@ -165,8 +165,8 @@ int b1,b2;
            }
            else if (b2>b1)
            {
-            b2-=5;
-            b1+=2;
+               b2-=5;
+               b1+=2;
                System.out.println("b2 is discharging and b1 is recharging");
                System.out.println("b1="+b1);
                System.out.println("b2="+b2);
@@ -181,6 +181,7 @@ int b1,b2;
                System.out.println("b2="+b2);
            }
            break;
+
        }
    }
 
@@ -192,5 +193,7 @@ int b1,b2;
 
 
 
+
     }
 }
+1
